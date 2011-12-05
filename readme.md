@@ -2,6 +2,12 @@
 
 This plugin automatically adds the snippet required to get [Woopra](http://woopra.com) tracking on your site.
 
+## Requirements ##
+
+This plugin is built for CakePHP 2.0+
+
+Got an older version of CakePHP? Upgrade already, its [dead easy](http://book.cakephp.org/2.0/en/appendices/2-0-migration-guide.html).
+
 ## Installation ##
 
 **Using Git:**
